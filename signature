@@ -1,28 +1,59 @@
-<table cellpadding="0" cellspacing="0" border="0" style="font-family: 'arial' , 'helvetica' , sans-serif; background-color: #ffffff; width: 100%; max-width: 600px; padding: 25px; border: 1px solid #f0f0f0; border-radius: 8px;">
-<tbody>
-<tr>
-<td style="vertical-align: top; padding-right: 20px; width: 110px;"><img src="https://raw.githubusercontent.com/jeuxvideosbaptiste-dot/direct-link/refs/heads/main/logo-astra.jpg" alt="Baptiste HUSTAIX" width="110" height="110" style="width: 110px; height: 110px; border-radius: 50%; display: block; border: none;" /></td>
-<td style="vertical-align: top; padding-top: 5px;">
-<div style="font-size: 24px; color: #111111; margin-bottom: 4px;">Baptiste HUSTAIX</div>
-<div style="font-size: 16px; color: #4a5568; margin-bottom: 12px;">Pr&eacute;sident de ASTRA</div>
-<table cellpadding="0" cellspacing="0" border="0" style="font-size: 13px; color: #111111; line-height: 1.6;">
-<tbody>
-<tr>
-<td style="font-weight: bold; padding-right: 5px; color: #111111;">E:</td>
-<td><a href="mailto:baptiste.hustaix@utt.fr" style="color: #111111; text-decoration: none;" target="_blank" rel="nofollow noopener noreferrer">baptiste.hustaix@utt.fr</a></td>
-</tr>
-<tr>
-<td style="font-weight: bold; padding-right: 5px; color: #111111;">E:</td>
-<td><a href="mailto:astra@utt.fr" style="color: #111111; text-decoration: none;" target="_blank" rel="nofollow noopener noreferrer">astra@utt.fr</a></td>
-</tr>
-</tbody>
-</table>
-<div style="font-size: 11px; color: #718096; margin-top: 10px; line-height: 1.3;">Association Scientifique Troyenne de Recherche Aerospatiale</div>
-</td>
-<td style="vertical-align: top; text-align: right; width: 40px; padding-top: 5px;"><a href="https://www.linkedin.com/company/astrautt/" style="display: inline-block; margin-bottom: 8px; background-color: #1c2434; border-radius: 50%; padding: 6px;" target="_blank" rel="nofollow noopener noreferrer"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="16" height="16" alt="LinkedIn" style="display: block;" /></a><br /><a href="https://www.instagram.com/astra.utt/" style="display: inline-block; margin-bottom: 8px; background-color: #1c2434; border-radius: 50%; padding: 6px;" target="_blank" rel="nofollow noopener noreferrer"><img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="16" height="16" alt="Instagram" style="display: block;" /></a></td>
-</tr>
-<tr>
-<td colspan="3" style="padding-top: 25px;"><img src="https://raw.githubusercontent.com/jeuxvideosbaptiste-dot/direct-link/refs/heads/main/cspace-2024-1.jpg" alt="Banni&egrave;re C'Space" width="600" style="width: 100%; max-width: 600px; display: block; border: none;" /></td>
-</tr>
-</tbody>
+<table cellpadding="0" cellspacing="0" border="0" style="font-family: 'Arial', 'Helvetica', sans-serif; background-color: #ffffff; width: 100%; max-width: 600px; padding: 25px; border: 1px solid #f0f0f0; border-radius: 8px;">
+  <tbody>
+    <tr>
+      <!-- Logo ASTRA -->
+      <td style="vertical-align: top; padding-right: 20px; width: 110px;">
+        <img src="https://raw.githubusercontent.com/jeuxvideosbaptiste-dot/direct-link/refs/heads/main/logo-astra.jpg" alt="ASTRA" width="110" height="110" style="width: 110px; height: 110px; border-radius: 50%; display: block; border: none;" />
+      </td>
+
+      <!-- Informations contact -->
+      <td style="vertical-align: top; padding-top: 5px;">
+        <div style="font-size: 24px; color: #111111; margin-bottom: 4px; font-weight: bold;">
+          Prénom NOM
+        </div>
+        <div style="font-size: 16px; color: #4a5568; margin-bottom: 12px;">
+          Poste &middot; ASTRA
+        </div>
+
+        <table cellpadding="0" cellspacing="0" border="0" style="font-size: 13px; color: #111111; line-height: 1.6;">
+          <tbody>
+            <tr>
+              <td style="font-weight: bold; padding-right: 5px; color: #111111;">E:</td>
+              <td>
+                <a href="mailto:prenom.nom@utt.fr" style="color: #111111; text-decoration: none;" rel="nofollow noopener noreferrer" target="_blank">prenom.nom@utt.fr</a>
+              </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold; padding-right: 5px; color: #111111;">E:</td>
+              <td>
+                <a href="mailto:astra@utt.fr" style="color: #111111; text-decoration: none;" rel="nofollow noopener noreferrer" target="_blank">astra@utt.fr</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div style="font-size: 11px; color: #718096; margin-top: 10px; line-height: 1.3;">
+          Association Scientifique Troyenne de Recherche Aérospatiale
+        </div>
+      </td>
+
+      <!-- Réseaux sociaux -->
+      <td style="vertical-align: top; text-align: right; width: 40px; padding-top: 5px;">
+        <a href="https://www.linkedin.com/company/astrautt/" style="display: inline-block; margin-bottom: 8px; background-color: #1c2434; border-radius: 50%; padding: 6px;" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="16" height="16" alt="LinkedIn" style="display: block; border: none;" />
+        </a>
+        <br />
+        <a href="https://www.instagram.com/astra.utt/" style="display: inline-block; margin-bottom: 8px; background-color: #1c2434; border-radius: 50%; padding: 6px;" rel="nofollow noopener noreferrer" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="16" height="16" alt="Instagram" style="display: block; border: none;" />
+        </a>
+      </td>
+    </tr>
+
+    <!-- Bannière bas de page -->
+    <tr>
+      <td colspan="3" style="padding-top: 25px;">
+        <img src="https://raw.githubusercontent.com/jeuxvideosbaptiste-dot/direct-link/refs/heads/main/cspace-2024-1.jpg" alt="Bannière C'Space" width="600" style="width: 100%; max-width: 600px; display: block; border: none;" />
+      </td>
+    </tr>
+  </tbody>
 </table>
